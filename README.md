@@ -1,6 +1,6 @@
 # Machine Learning with PySpark
 
-Collection of notes and code on how to do machine learning using Pyspark
+Collection of notes and code on how to do machine learning with Pyspark through an example.
 
 # Install libraries
 
